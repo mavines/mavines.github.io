@@ -1,8 +1,6 @@
 {:title "About"
  :layout :page
- :page-index 0
+ :page-index 2
  :navbar? true}
 
-## Write something about something
-
-wow wow wow
+This blog provides a place to store my thoughts and comments on various topics.
